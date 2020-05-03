@@ -1,6 +1,6 @@
 <template>
   <v-container>
-    
+
     <v-row class="text-center">
       <v-col cols="12">
         <v-img
@@ -13,7 +13,7 @@
 
       <v-col class="mb-4">
         <h1 class="display-2 font-weight-bold mb-3">
-          하이하이222
+          하이하이222444
         </h1>
 
         <p class="subheading font-weight-regular">
