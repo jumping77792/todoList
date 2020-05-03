@@ -32,7 +32,7 @@
         target="_blank"
         text
       >
-        <span class="mr-2">바뀐거 배포한다잉</span>
+        <span class="mr-2">바뀐거 배포한다잉123213123123</span>
         <v-icon>mdi-open-in-new</v-icon>
       </v-btn>
     </v-app-bar>
